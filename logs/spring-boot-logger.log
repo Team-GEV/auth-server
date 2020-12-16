@@ -1,0 +1,46 @@
+2020-12-16 02:41:44,090 INFO org.springframework.boot.StartupInfoLogger [main] Starting AuthServerApplication on MSI with PID 3644 (G:\工作training\teamProject2\auth-server\target\classes started by DCH in G:\工作training\teamProject2\auth-server)
+2020-12-16 02:41:44,109 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-12-16 02:41:45,419 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2020-12-16 02:41:45,449 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 21ms. Found 0 JPA repository interfaces.
+2020-12-16 02:41:45,736 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-12-16 02:41:46,042 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9999 (http)
+2020-12-16 02:41:46,049 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9999"]
+2020-12-16 02:41:46,050 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-12-16 02:41:46,051 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-16 02:41:46,358 INFO org.apache.juli.logging.DirectJDKLog [main] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-12-16 02:41:46,363 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-12-16 02:41:46,363 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2091 ms
+2020-12-16 02:41:46,592 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.14.Final}
+2020-12-16 02:41:46,594 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2020-12-16 02:41:46,773 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2020-12-16 02:41:47,802 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-12-16 02:41:48,531 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-12-16 02:41:48,661 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-16 02:41:49,017 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9999"]
+2020-12-16 02:41:49,052 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9999 (http) with context path ''
+2020-12-16 02:41:49,055 INFO org.springframework.data.repository.config.DeferredRepositoryInitializationListener [main] Triggering deferred initialization of Spring Data repositories…
+2020-12-16 02:41:49,056 INFO org.springframework.data.repository.config.DeferredRepositoryInitializationListener [main] Spring Data repositories initialized!
+2020-12-16 02:41:49,067 INFO org.springframework.boot.StartupInfoLogger [main] Started AuthServerApplication in 5.788 seconds (JVM running for 7.316)
+2020-12-16 03:19:45,900 INFO org.springframework.boot.StartupInfoLogger [main] Starting AuthServerApplication on MSI with PID 14176 (G:\工作training\teamProject2\auth\target\classes started by DCH in G:\工作training\teamProject2\auth)
+2020-12-16 03:19:45,904 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-12-16 03:19:46,547 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2020-12-16 03:19:46,572 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 16ms. Found 0 JPA repository interfaces.
+2020-12-16 03:19:46,789 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-12-16 03:19:47,059 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9999 (http)
+2020-12-16 03:19:47,071 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9999"]
+2020-12-16 03:19:47,072 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-12-16 03:19:47,072 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-16 03:19:47,373 INFO org.apache.juli.logging.DirectJDKLog [main] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-12-16 03:19:47,378 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-12-16 03:19:47,379 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1429 ms
+2020-12-16 03:19:47,601 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.14.Final}
+2020-12-16 03:19:47,603 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2020-12-16 03:19:47,717 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2020-12-16 03:19:48,644 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-12-16 03:19:49,287 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-12-16 03:19:49,422 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-16 03:19:49,683 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9999"]
+2020-12-16 03:19:49,711 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9999 (http) with context path ''
+2020-12-16 03:19:49,714 INFO org.springframework.data.repository.config.DeferredRepositoryInitializationListener [main] Triggering deferred initialization of Spring Data repositories…
+2020-12-16 03:19:49,714 INFO org.springframework.data.repository.config.DeferredRepositoryInitializationListener [main] Spring Data repositories initialized!
+2020-12-16 03:19:49,722 INFO org.springframework.boot.StartupInfoLogger [main] Started AuthServerApplication in 4.39 seconds (JVM running for 5.599)
